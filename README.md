@@ -1,2 +1,2 @@
 # Cases
-Experimental Cases
+We collect 30 actual collaborative business processes from multiple sources, including existing research papers, two open sources (accessed at: http://www.bpmn.org/ and https://ai.wu.ac.at/emisa2015/contest.php), and the RePROSitory platform (accessed at: http://pros.unicam.it/reprository), as our experimental cases, which form our experimental dataset. These collected cases are from various industrial applications, such as e-commerce, emergency response, and IoT, which represent actual and diverse collaborative business processes.
